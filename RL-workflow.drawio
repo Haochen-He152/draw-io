@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="L5RQW2N8rlW-JRZwHM39">
-    <mxGraphModel>
+    <mxGraphModel dx="444" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-6" edge="1" parent="1" source="_ZvK75Saiiw3k5yQXnY8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_ZvK75Saiiw3k5yQXnY8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Import the objects&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="240" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-7" edge="1" parent="1" source="_ZvK75Saiiw3k5yQXnY8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_ZvK75Saiiw3k5yQXnY8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Define function of Obs, Rew, Term&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="240" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-12" edge="1" parent="1" source="_ZvK75Saiiw3k5yQXnY8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_ZvK75Saiiw3k5yQXnY8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Set initial state&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="240" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-9" edge="1" parent="1" source="_ZvK75Saiiw3k5yQXnY8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_ZvK75Saiiw3k5yQXnY8-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Drive robot and collect info&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="240" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvK75Saiiw3k5yQXnY8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update neural network" vertex="1">
+          <mxGeometry height="50" width="160" x="240" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
