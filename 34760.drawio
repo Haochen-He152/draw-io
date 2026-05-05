@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="h8owQ9IgXM_bhAFDDkh9">
-    <mxGraphModel dx="1460" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="973" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,31 +70,31 @@
         <mxCell id="h0d3Xtbu8B0o6MDMPY14-18" parent="1" style="shape=xor;whiteSpace=wrap;html=1;rotation=-90;" value="" vertex="1">
           <mxGeometry height="60" width="40" x="775" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Safety guard removed or open" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE1:&lt;div&gt;Safety guard removed or open&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="70" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Safety interlock failed" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE2:&lt;div&gt;Safety interlock failed&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="165" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Operator enters zone without authorization" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE3:&lt;div&gt;Operator enters zone without authorization&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="260" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Programming error" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE5:&lt;div&gt;Programming error&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="465" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="E-stop not available or inoperative" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE7:&lt;div&gt;E-stop not available or inoperative&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="670" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Lockout not followed" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE9:&lt;div&gt;Lockout not followed&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="850" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Sensor failure" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE6:&lt;div&gt;Sensor failure&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="560" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Warning system inadequate" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE8:&lt;div&gt;Warning system inadequate&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="758" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Control system failure" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE4:&lt;div&gt;Control system failure&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="374" y="320" as="geometry" />
         </mxCell>
         <mxCell id="h0d3Xtbu8B0o6MDMPY14-46" edge="1" parent="1" source="h0d3Xtbu8B0o6MDMPY14-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
@@ -105,7 +105,7 @@
             <mxPoint x="890" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0d3Xtbu8B0o6MDMPY14-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="Maintenance procedure not followed" vertex="1">
+        <mxCell id="h0d3Xtbu8B0o6MDMPY14-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="BE10:&lt;div&gt;Maintenance procedure not followed&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="940" y="320" as="geometry" />
         </mxCell>
         <mxCell id="h0d3Xtbu8B0o6MDMPY14-36" edge="1" parent="1" source="h0d3Xtbu8B0o6MDMPY14-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.53;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="h0d3Xtbu8B0o6MDMPY14-10">
